@@ -1,0 +1,5 @@
+<resources>
+    <color name="transmilenio_red">#C8102E</color> <!-- Rojo TransMilenio -->
+    <color name="transmilenio_yellow">#FFCC00</color> <!-- Amarillo TransMilenio -->
+    <color name="transmilenio_white">#FFFFFF</color> <!-- Blanco TransMilenio -->
+</resources>
